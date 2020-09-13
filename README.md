@@ -1,1 +1,2 @@
 # GADS2020Leaderboard
+Screenshot_20200913_035424_com.alserdar.gads2020leaderboard.jpg
