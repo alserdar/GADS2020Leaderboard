@@ -1,2 +1,2 @@
 # GADS2020Leaderboard
-Screenshot_20200913_035424_com.alserdar.gads2020leaderboard.jpg
+https://github.com/alserdar/GADS2020Leaderboard/commit/0d320dcd0dc6b94c04bbb185466f40cd463b1e92#commitcomment-42274218
